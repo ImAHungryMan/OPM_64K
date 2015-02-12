@@ -1,6 +1,8 @@
 # OPM_64K
-KSP Integration configs for the OuterPlanets Mod and 64K 
-//Those configs deviate in some aspects from the regular 64K, should that be unwanted,
+
+KSP Integration configs for the OuterPlanets Mod by Cpt. Robau and Eudae55 and 64K by Paul Kingtiger, Raptor831 and Regex.
+
+//These configs deviate in some aspects from the regular 64K, should that be unwanted,
 using the RealSolarSystem.cfg from 64K *should* work with this, provided you delete the entry for Eeloo. 
 
 RSS/64K:
