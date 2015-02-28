@@ -1,7 +1,20 @@
 KSP Integration configs for the OuterPlanets Mod by Cpt. Robau and Eudae55 and 64K by Paul Kingtiger, Raptor831 and Regex.
 
 //These configs deviate in some aspects from the regular 64K, should that be unwanted,
-using the RealSolarSystem.cfg from 64K *should* work with this, provided you delete the entry for Eeloo. 
+  using the RealSolarSystem.cfg from 64K *should* work with this, provided you delete the entry for Eeloo. 
+//Initial Changelog below, some of this stuff did not stay the same with updates.
+//I included some configs for Astronomers Visual Pack Interstellar v2, which attempt to resolve some of the sadness associated
+  with using it on a rescaled system; however my knowledge of EVE is limited and there is only so much I can resolve - the configs
+  reflect that.
+
+
+Installation Instructions:
+1.) AVP Interstellar V2 (can be skipped if you dont care about the visuals or your pc has trouble with it)
+2.) OPM and 64K, do overwrite everything that comes from OPM, do not copy the "BoulderCo" folder from 64k however.
+3.) Install the compatibility configs, overwriting everything when asked. If you skipped AVP, just leave out the "BoulderCo" folder,
+    if you did only install some parts of AVP:I instead of everything, only copy the copy the relevant configs - otherwise things can
+    and will break.
+
 
 RSS/64K:
 -The RealSolarSystem.cfg file is based off the 24h version; the 12h patch should work nonetheless.
