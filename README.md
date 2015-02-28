@@ -12,7 +12,7 @@ Installation Instructions:
 1.) AVP Interstellar V2 (can be skipped if you dont care about the visuals or your pc has trouble with it)
 2.) OPM and 64K, do overwrite everything that comes from OPM, do not copy the "BoulderCo" folder from 64k however.
 3.) Install the compatibility configs, overwriting everything when asked. If you skipped AVP, just leave out the "BoulderCo" folder,
-    if you did only install some parts of AVP:I instead of everything, only copy the copy the relevant configs - otherwise things can
+    if you did only install some parts of AVP:I instead of everything, only copy the relevant configs - otherwise things can
     and will break.
 
 
