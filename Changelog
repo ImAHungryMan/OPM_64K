@@ -1,0 +1,15 @@
+//Changelog for the integration configs v1.1 of the OuterPlanets Mod by CptRobau and Eudae55 and 64k by Regex, Raptor831 and Paul Kingtiger.
+//This only includes the latest changes, everything that came before that is in the Readme.
+
+RSS/64K:
+-Nothing for now, this update deals with OPM 1.5.5 specifically.
+
+OPM:
+-There were some significant changes to the file structure and the place certain informations are stored in, this update integrates those changes.
+-Adjusted Orbits of Eeloo, Slate and Tekto according to the latest changes in the OPM. 
+-Atmospheres are now dealt with by Kittopia, and apparently some of their heights were multiplied by 1.32 in OPM 1.5.5 - 64k would do this too,
+ however doing it twice would escalate things a bit, so I did not repeat it for now. (What this means for you: atmospheres of the gas giants 
+ should not have changed from the last version.)
+-Multiplied Tekto's atmospheric height and ScaleHeight by 1.32
+-Adjusted Ovok's heightmapdeformity PQSMod to retain its "pill" shape and gave it a sphere of influence that lets you orbit without crashing into the terrain
+ (note that you have to press ctrl+p, select Ovok and click "Load Data" to have this applied; alternatively, increase Ovok's mass in its config file)

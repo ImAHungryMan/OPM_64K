@@ -1,5 +1,3 @@
-# OPM_64K
-
 KSP Integration configs for the OuterPlanets Mod by Cpt. Robau and Eudae55 and 64K by Paul Kingtiger, Raptor831 and Regex.
 
 //These configs deviate in some aspects from the regular 64K, should that be unwanted,
@@ -29,4 +27,5 @@ AVP/EVE
 -Fixed surface glow layer on the Mun being too low and removed the “Halos” around some of Jool's moons, as well as the cloud layer above Pol.
 -Toned down lightning on all planets a lot, removed it from Duna, added it to Tekto. As a side effect, the lightning is a lot dimmer. This is hardly ideal, but I have no idea how to get around that as of now. 
 -Clouds work out of the box on the gas giants, made atmospheric haze work there too. Failed to achieve acceptable results with the Haze around most of the terrestrial planets, so I left that untouched.
--Tekto's clouds work reasonably well fortunately, however I getting the atmospheric haze right will require someone more skilled with EVE than me. 
+-Tekto's clouds work reasonably well fortunately, however I getting the atmospheric haze right will require someone more skilled with EVE than me.
+
